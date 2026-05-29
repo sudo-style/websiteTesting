@@ -1,0 +1,35 @@
+<textarea id="ttsBox" rows="10" cols="60"></textarea>
+
+<br><br>
+
+<select id="soundSelect">
+  <option value="ding">Ding</option>
+  <option value="airhorn">Airhorn</option>
+  <option value="explosion">Explosion</option>
+</select>
+
+<button onclick="insertSound()">
+  Insert Sound
+</button>
+
+<script>
+function insertSound() {
+    const textarea = document.getElementById("ttsBox");
+    const sound = document.getElementById("soundSelect").value;
+
+    const start = textarea.selectionStart;
+    const end = textarea.selectionEnd;
+
+    const token = ` [${sound}] `;
+
+    textarea.value =
+        textarea.value.substring(0, start) +
+        token +
+        textarea.value.substring(end);
+
+    textarea.focus();
+
+    const cursorPos = start + token.length;
+    textarea.setSelectionRange(cursorPos, cursorPos);
+}
+</script>
