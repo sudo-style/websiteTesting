@@ -32,6 +32,7 @@ async function loadProjects() {
             // Build media section
             let mediaSection = "";
 
+            // ✅ FIXED YOUTUBE EMBED
             if (project.youtube) {
                 mediaSection += `
                     <div class="video-container">
@@ -45,6 +46,7 @@ async function loadProjects() {
                 `;
             }
 
+            // GitHub link
             if (project.github) {
                 mediaSection += `
                     <p class="project-link">
