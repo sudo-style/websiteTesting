@@ -35,18 +35,9 @@ async function loadProjects() {
             // YouTube Embed
             if (project.youtube) {
                 mediaSection += `
-                    <div class="video-container">
-                        <iframe
-                            src="https://www.youtube.com/embed/${project.youtube}"
-                            allowfullscreen>
-                        </iframe>
-                    </div>
-
-                    <p>
-                        <a href="https://youtu.be/${project.youtube}" target="_blank">
-                            Watch on YouTube
-                        </a>
-                    </p>
+                    <a href="https://youtu.be/${project.youtube}" target="_blank">
+                        <img src="https://img.youtube.com/vi/${project.youtube}/hqdefault.jpg">
+                    </a>
                 `;
             }
 
