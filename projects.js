@@ -32,17 +32,21 @@ async function loadProjects() {
             // Build media section
             let mediaSection = "";
 
-            // ✅ FIXED YOUTUBE EMBED
+            // YouTube Embed
             if (project.youtube) {
                 mediaSection += `
                     <div class="video-container">
                         <iframe
                             src="https://www.youtube.com/embed/${project.youtube}"
-                            title="${project.title}"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowfullscreen>
                         </iframe>
                     </div>
+
+                    <p>
+                        <a href="https://youtu.be/${project.youtube}" target="_blank">
+                            Watch on YouTube
+                        </a>
+                    </p>
                 `;
             }
 
