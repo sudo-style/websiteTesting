@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Entropy Engine (Private for Now)",
+        "description": "Interactive twitch stream engine that is able to respond in real time with users.",
+        "readme": "./projects/Twitch Entropy Engine/README.md"
+    },
+    {
+        "title": "Wordle Ceating Detection",
+        "description": "Using statistics I was able to prove that someone was cheating at wordle in a Discord server.",
+        "github": "https://github.com/sudo-style/wordle-first-guess-analysis",
+        "readme": "https://raw.githubusercontent.com/sudo-style/wordle-first-guess-analysis/refs/heads/Main/README.md"
+    },
+    {
+        "title": "Gesture Recognition",
+        "youtube": "K4Nl52dtqvMmptVN",
+        "github": "https://github.com/sudo-style/human-pose-estimation-opencv",
+        "readme": "https://raw.githubusercontent.com/sudo-style/human-pose-estimation-opencv/refs/heads/master/README.md"
+        
+    }
+]
