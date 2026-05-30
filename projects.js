@@ -38,6 +38,7 @@ async function loadProjects() {
                         <iframe
                             src="https://www.youtube.com/embed/${project.youtube}"
                             title="${project.title}"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowfullscreen>
                         </iframe>
                     </div>
