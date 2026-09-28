@@ -10,6 +10,7 @@
     - [x] Spawn 
 - [x] Detecting new chatters
 - [x] Detecting bits
+- [x] Detecting power ups
 - [x] Interacting with OBS
     - [x] toggle filters
     - [x] switch scenes
@@ -18,11 +19,10 @@
 - [x] Cacheing emotes
 - [x] Emote Sounds
 - [x] Chat Bot
-    - responds to users 
-
+    - [x] responds to users 
+- [x] Displaying Selected Comments
+- [x] Voting on polls
 
 ## Current Goals
 - [ ] Detecting Raids
-- [ ] Displaying Selected Comments
 - [ ] Detecting Watch Streaks
-- [ ] Voting on polls
