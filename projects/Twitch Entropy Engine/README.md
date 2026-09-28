@@ -21,8 +21,9 @@
 - [x] Chat Bot
     - [x] responds to users 
 - [x] Displaying Selected Comments
-- [x] Voting on polls
+- [x] Creating/voting on polls
 
 ## Current Goals
 - [ ] Detecting Raids
 - [ ] Detecting Watch Streaks
+- [ ] Upload a demo of features
