@@ -22,8 +22,10 @@
     - [x] responds to users 
 - [x] Displaying Selected Comments
 - [x] Creating/voting on polls
+- [x] Detecting giphy from T2/T3 subscribers
 
 ## Current Goals
 - [ ] Detecting Raids
 - [ ] Detecting Watch Streaks
 - [ ] Upload a demo of features
+- [ ] Able to Display FFZ emote effects
