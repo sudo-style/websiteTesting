@@ -7,10 +7,20 @@
 - [x] Channel Redeems
     - [x] Raid to another stream
     - [x] Daily redeems, keeps track of total visit count
-    - [x] Spawn 
-- [x] Detecting new chatters
-- [x] Detecting bits
-- [x] Detecting power ups
+    - [x] Spawn random video
+     
+- [ ] Detections
+    Free 
+    - [x] Detecting new chatters
+    - [x] Detecting Raids
+    - [ ] Detecting Watch Streaks
+    - [ ] Followers
+    Paid
+    - [x] Detecting bits
+    - [x] Detecting power ups
+    - [x] [Detecting giphy from T2/T3 subs](https://github.com/sudo-style/Twitch-related-jupyter-notebooks/blob/Main/giphy%20detection.ipynb)
+    - [ ] Detecting Subs
+     
 - [x] Interacting with OBS
     - [x] toggle filters
     - [x] switch scenes
@@ -26,11 +36,10 @@
     - [x] BTTV Emotes
     - [x] FFZ Emotes
         - [ ] Emote modifiers
+    - [ ] other
+        - [ ] 0 width emotes 
 - [x] Creating/voting on polls
-- [x] [Detecting giphy from T2/T3 subscribers](https://github.com/sudo-style/Twitch-related-jupyter-notebooks/blob/Main/giphy%20detection.ipynb)
-- [x] Detecting Raids
 
 ## Current Goals
-- [ ] Detecting Watch Streaks
 - [ ] Upload a demo of features
-- [ ] Able to Display FFZ emote effects
+- [ ] Able to Display FFZ emote effects on any emote
