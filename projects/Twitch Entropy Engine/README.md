@@ -20,7 +20,7 @@
 - [x] Emote Sounds
 - [x] Chat Bot
     - [x] responds to users 
-- [x] Displaying Selected Comments
+- [x] [Displaying Selected Comments](https://github.com/sudo-style/Twitch-related-jupyter-notebooks/blob/Main/Converting%20Messages%20To%20HTML.ipynb)
 - [x] Creating/voting on polls
 - [x] [Detecting giphy from T2/T3 subscribers](https://github.com/sudo-style/Twitch-related-jupyter-notebooks/blob/Main/giphy%20detection.ipynb)
 - [x] Detecting Raids
