@@ -10,11 +10,13 @@
     - [x] Spawn random video
      
 - [ ] Detections
+    
     Free 
     - [x] Detecting new chatters
     - [x] Detecting Raids
     - [ ] Detecting Watch Streaks
     - [ ] Followers
+    
     Paid
     - [x] Detecting bits
     - [x] Detecting power ups
