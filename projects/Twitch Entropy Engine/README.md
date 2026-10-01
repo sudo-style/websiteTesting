@@ -15,8 +15,9 @@
     - [x] Detecting new chatters
         - [ ] currently in the process of making 100+ videos for users I know
     - [x] Detecting Raids
+    - [x] Followers
     - [ ] Detecting Watch Streaks
-    - [ ] Followers
+    
     
     Paid
     - [x] Detecting bits
