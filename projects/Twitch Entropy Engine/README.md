@@ -24,6 +24,7 @@
     - [x] Detecting power ups
     - [x] [Detecting giphy from T2/T3 subs](https://github.com/sudo-style/Twitch-related-jupyter-notebooks/blob/Main/giphy%20detection.ipynb)
     - [x] Detecting Subs
+    - [ ] Gigantified emotes
      
 - [x] Interacting with OBS
     - [x] toggle filters
