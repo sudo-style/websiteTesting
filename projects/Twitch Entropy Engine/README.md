@@ -15,7 +15,7 @@
     
     Free 
     - [x] Detecting new chatters
-        - [ ] currently in the process of making 100+ videos for users I know
+        - [x] [Prints a receipt of first time chatters](https://youtube.com/shorts/pxxUjWhAntI)
     - [x] Detecting Raids
     - [x] Followers
     - [ ] Detecting Watch Streaks
@@ -36,7 +36,9 @@
 - [x] Cacheing emotes
 - [x] Emote Sounds
 - [x] Chat Bot
-    - [x] responds to users 
+    - [x] responds to adding emotes
+    - [x] responds to polls
+    - [x] responds to 8-ball redeem
 - [x] [Displaying Selected Comments](https://github.com/sudo-style/Twitch-related-jupyter-notebooks/blob/Main/Converting%20Messages%20To%20HTML.ipynb)
     - [x] Twitch Emotes
     - [x] 7tv Emotes
