@@ -9,6 +9,7 @@
     - [x] Daily redeems, keeps track of total visit count
     - [x] Spawn random video
     - [x] [Scan](https://github.com/sudo-style/websiteTesting/blob/main/images/sudostyle_2026-04-29_01-27-57.png) - adds a split scan effect to my main camera feed
+    - [x] Add emote - able to add a 7tv emote from another channel to mine, and optionaly rename them
      
 - [ ] Detections
     
