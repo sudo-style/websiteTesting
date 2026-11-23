@@ -39,6 +39,7 @@
     - [x] responds to adding emotes
     - [x] responds to [polls](https://raw.githubusercontent.com/sudo-style/websiteTesting/refs/heads/main/images/sudobutt_vote.png)
     - [x] responds to 8-ball redeem
+    - [x] responds to [daily redeem](https://raw.githubusercontent.com/sudo-style/websiteTesting/refs/heads/main/images/sudobutt_daily%20redeem.png)
 - [x] [Displaying Selected Comments](https://github.com/sudo-style/Twitch-related-jupyter-notebooks/blob/Main/Converting%20Messages%20To%20HTML.ipynb)
     - [x] Twitch Emotes
     - [x] 7tv Emotes
