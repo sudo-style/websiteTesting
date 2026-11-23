@@ -37,7 +37,7 @@
 - [x] Emote Sounds
 - [x] Chat Bot
     - [x] responds to adding emotes
-    - [x] responds to polls
+    - [x] responds to [polls](https://raw.githubusercontent.com/sudo-style/websiteTesting/refs/heads/main/images/sudobutt_vote.png)
     - [x] responds to 8-ball redeem
 - [x] [Displaying Selected Comments](https://github.com/sudo-style/Twitch-related-jupyter-notebooks/blob/Main/Converting%20Messages%20To%20HTML.ipynb)
     - [x] Twitch Emotes
