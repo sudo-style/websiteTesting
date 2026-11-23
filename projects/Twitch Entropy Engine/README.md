@@ -47,7 +47,7 @@
         - [ ] Emote modifiers
     - [ ] other
         - [ ] 0 width emotes 
-- [x] Creating/voting on [polls](https://raw.githubusercontent.com/sudo-style/websiteTesting/refs/heads/main/images/poll.png)
+- [x] Creating/voting on [polls](https://raw.githubusercontent.com/sudo-style/websiteTesting/refs/heads/main/images/poll.png) plus [results](https://raw.githubusercontent.com/sudo-style/websiteTesting/refs/heads/main/images/sudobutt_vote.png) 
 
 ## Current Goals
 - [ ] Upload a demo of features
