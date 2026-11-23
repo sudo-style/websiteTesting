@@ -1,3 +1,9 @@
+---
+layout: default
+title: Emote Sounds
+permalink: /projects/twitch-entropy-engine/emote-sounds/
+---
+
 # Emote Sound Effects
 
 A collection of sound effects used for emotes and chat triggers.
