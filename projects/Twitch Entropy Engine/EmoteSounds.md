@@ -24,29 +24,25 @@ A collection of sound effects used for emotes and chat triggers.
   `xddtime this is`               Nine Days -- "Absolutely (Story of a Girl)" [Audio Source](https://www.youtube.com/watch?v=2ubqssUhax4)
                                        
 
-  `xddtime young man`             Village People --       [Audio Source](https://www.youtube.com/watch?v=H7pzcz3BzHA)
-                                  "Y.M.C.A."              
+  `xddtime young man`             Village People -- "Y.M.C.A."   [Audio Source](https://www.youtube.com/watch?v=H7pzcz3BzHA)
 
-  `xddtime tell me why`           Backstreet Boys -- "I   [Audio Source](https://www.youtube.com/watch?v=nVkb9rZGp0I)
-                                  Want It That Way"       
+  `xddtime tell me why`           Backstreet Boys -- "I Want It That Way" [Audio Source](https://www.youtube.com/watch?v=nVkb9rZGp0I)
+                                    
 
-  `xddtime message in a bottle`   The Police -- "Message  [Audio Source](https://www.youtube.com/watch?v=eyreAOcLyEY)
-                                  in a Bottle"            
+  `xddtime message in a bottle`   The Police -- "Message in a Bottle" [Audio Source](https://www.youtube.com/watch?v=eyreAOcLyEY)
 
-  `xddtime its gonna be me`       \*NSYNC -- "It's Gonna  [Audio Source](https://www.youtube.com/watch?v=Quzlc26QxfA)
-                                  Be Me"                  
+  `xddtime its gonna be me`       \*NSYNC -- "It's Gonna Be Me" [Audio Source](https://www.youtube.com/watch?v=Quzlc26QxfA)
+                                  
+  `xddtime its gonna be may`      \*NSYNC -- "It's Gonna Be Me" [Audio Source](https://www.youtube.com/watch?v=Quzlc26QxfA)
 
-  `xddtime its gonna be may`      \*NSYNC -- "It's Gonna  [Audio Source](https://www.youtube.com/watch?v=Quzlc26QxfA)
-                                  Be Me" 
+  `xddtime tonight`               The Outfield "Your Love" --- 9 variations [Audio Source](https://www.youtube.com/watch?v=-79wqkEOGB4)
+                                  
+  `WHO`                           Two variations:
+  * "Who the fuck is sudostyle" [Audio Source 1](https://youtu.be/5yDY1sODKRE)
+  * The Who -- "Who Are You" [Audio Source 2](https://www.youtube.com/watch?v=PNbBDrceCy8)
 
-  `xddtime tonight`               The Outfield "Your Love" [Audio Source](https://www.youtube.com/watch?v=-79wqkEOGB4)
-                                  --- 9 variations
-
-  `WHO`                           Two variations: "Who the fuck is sudostyle"    [Audio Source 1](https://youtu.be/5yDY1sODKRE) ·
-                                  and The Who -- "Who Are You" [Audio Source 2](https://www.youtube.com/watch?v=PNbBDrceCy8)
-
-  `LETITRIDE`                     "Let It Ride" sound     [Audio Source](https://www.youtube.com/shorts/VYXAND8enUo)
-                                  --- 5 variations
+  `LETITRIDE`                     "Let It Ride" sound --- 5 variations [Audio Source](https://www.youtube.com/shorts/VYXAND8enUo)
+                                  
   -------------------------------------------------------------------------------------------------------------
 
 ## Notes
