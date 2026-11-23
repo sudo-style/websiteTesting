@@ -34,7 +34,7 @@
     - [x] start/end stream
     - [x] save source to .png
 - [x] Cacheing emotes
-- [x] [Emote Sounds](Emote%20Sounds.md)
+- [x] [Emote Sounds](EmoteSounds.md)
 - [x] Chat Bot
     - [x] responds to adding emotes
     - [x] responds to [polls](https://raw.githubusercontent.com/sudo-style/websiteTesting/refs/heads/main/images/sudobutt_vote.png)
