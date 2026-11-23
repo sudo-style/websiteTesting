@@ -34,7 +34,7 @@
     - [x] start/end stream
     - [x] save source to .png
 - [x] Cacheing emotes
-- [x] [Emote Sounds](/../projects/Twitch%20Entropy%20Engine/EmoteSounds.md)
+- [x] [Emote Sounds](https://github.com/sudo-style/websiteTesting/blob/main/projects/Twitch%20Entropy%20Engine/EmoteSounds.md)
 - [x] Chat Bot
     - [x] responds to adding emotes
     - [x] responds to [polls](https://raw.githubusercontent.com/sudo-style/websiteTesting/refs/heads/main/images/sudobutt_vote.png)
