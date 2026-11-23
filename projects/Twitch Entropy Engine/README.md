@@ -8,6 +8,7 @@
     - [x] Raid to another stream
     - [x] Daily redeems, keeps track of total visit count
     - [x] Spawn random video
+    - [x] [Scan](https://github.com/sudo-style/websiteTesting/blob/main/images/sudostyle_2026-04-29_01-27-57.png) - adds a split scan effect to my main camera feed
      
 - [ ] Detections
     
