@@ -2,8 +2,11 @@
 
 ## Completed Features: 
 - [x] TTS generation
-    - read text, and sound effects inline
+    - [x] Make a TTS with System Voice and combine with Sound Effects
+    - [x] Multiple Eleven Lab voices/models in a single TTS
+    - [ ] Character that reads the TTS
 - [x] TTS Queue
+    - [ ] Paid and Free TTS Queue with Paid having priority
 - [x] Channel Redeems
     - [x] Raid to another stream
     - [x] Daily redeems, keeps track of total visit count
@@ -12,7 +15,6 @@
     - [x] Add emote - able to add a [7tv emote from another channel](https://raw.githubusercontent.com/sudo-style/websiteTesting/refs/heads/main/images/sudobutt_adding%20emotes.png), and optionaly [rename](https://raw.githubusercontent.com/sudo-style/websiteTesting/refs/heads/main/images/sudobutt_adding%20emotes%20renamed.png) them
      
 - [ ] Detections
-    
     Free 
     - [x] Detecting new chatters
         - [x] [Prints a receipt of first time chatters](https://youtube.com/shorts/pxxUjWhAntI)
